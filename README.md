@@ -25,6 +25,6 @@
 
 ---
 
-https://github.com/artyompetnitsky/lab3-variant8
+https://github.com/artyompetnitsky/lab3_variant8
 
 Автор: Artyom Petnitsky
